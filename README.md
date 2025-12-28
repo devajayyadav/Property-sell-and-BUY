@@ -133,7 +133,7 @@ Access the application:
 * RESTful architecture
 * JSON-based communication
 * Secure endpoints
-* Role-based access (User / Admin – optional)
+* Role-based access 
 
 ---
 
