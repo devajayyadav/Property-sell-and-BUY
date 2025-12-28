@@ -136,19 +136,6 @@ Access the application:
 * Role-based access 
 
 ---
-
-## 📸 Screenshots
-
-*Add screenshots of:*
-
-* Home Page
-* Property Listing Page
-* Property Details Page
-* Login / Register Page
-* Admin Dashboard 
-
----
-
 ## 🎯 Future Enhancements
 
 * Property image upload
